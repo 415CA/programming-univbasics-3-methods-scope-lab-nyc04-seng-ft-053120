@@ -13,6 +13,10 @@ def link
   puts phrase
 end
 
-mario
-toadstool
-link
+def all_phrases
+  mario
+  toadstool
+  link
+end
+
+all_phrases
